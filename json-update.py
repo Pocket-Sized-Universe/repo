@@ -32,4 +32,4 @@ data["AssemblyVersion"] = version
 
 # Save the updated JSON
 with open("plogonmaster.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, indent=2)
+    json.dump([data], f, indent=2)
