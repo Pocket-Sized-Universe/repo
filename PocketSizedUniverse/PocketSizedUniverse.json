@@ -16,8 +16,5 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Pocket-Sized-Universe/client/main/PocketSizedUniverse/images/logo.png",
   "Punchline": "We're beating a dead horse.",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/Pocket-Sized-Universe/client/releases/download/0.0.1/PocketSizedUniverse.zip",
-  "DownloadLinkTesting": "https://github.com/Pocket-Sized-Universe/client/releases/download/0.0.1/PocketSizedUniverse.zip",
-  "DownloadLinkUpdate": "https://github.com/Pocket-Sized-Universe/client/releases/download/0.0.1/PocketSizedUniverse.zip"
+  "AcceptsFeedback": true
 }
